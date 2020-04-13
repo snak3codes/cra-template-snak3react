@@ -1,0 +1,22 @@
+h1,
+p {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.framework {
+  color: #61dbfb;
+}
+
+body {
+  background-color: #15171d;
+  font-size: 1.2em;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
