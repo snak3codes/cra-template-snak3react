@@ -6,14 +6,14 @@ class App extends Component {
     return (
       <div>
         <h1>
-          Welcome to <span className="framework">React</span>{' '}
+          Welcome to <span className="framework">React</span>
         </h1>
         <img src="logo192.png" alt="" height="80px" />
         <p>
-          You are using the{' '}
+          You are using the
           <strong>
             <em className="framework">snak3react</em>
-          </strong>{' '}
+          </strong>
           CRA Template
         </p>
       </div>
