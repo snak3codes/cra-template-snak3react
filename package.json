@@ -6,10 +6,15 @@
     "create-react-app",
     "template"
   ],
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "author": "snak3codes",
   "description": "Snak3codes great template for CRA.",
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "bugs": {
     "url": "https://github.com/facebook/create-react-app/issues"
