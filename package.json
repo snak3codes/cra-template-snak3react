@@ -1,6 +1,6 @@
 {
   "name": "cra-template-snak3react",
-  "version": "1.0.5.1",
+  "version": "1.0.6",
   "description": "React template by snak3codes with: eslint, prettier, babel, jsx-a11y and styled-components",
   "keywords": [
     "react",
